@@ -43,7 +43,7 @@ Power BI Desktop – For data visualisation and analysis.
 - Adjust pricing and discounting strategies to maximise profit margins.
 - Focus on high-revenue markets to drive further business growth.
 
-# How to Use this Repository (pbix)
+# How to Use this Repository
 
 - The Power BI (.pbix) file contains interactive dashboards for analysing product sales data.
 - Users can explore sales trends by filtering through product, country, time period, and sales influencers.
